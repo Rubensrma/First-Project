@@ -1,2 +1,2 @@
 # First-Project
-Criação do meu primeiro projeto no GitHub
+Criação do meu Primeiro Projeto no GitHub
